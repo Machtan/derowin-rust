@@ -1,0 +1,12 @@
+[package]
+authors = ["Machtan <jako3047@gmail.com>"]
+name = "derowin"
+version = "0.2.0"
+
+[dependencies]
+#sdl2 = "0.19.0"
+#sdl2_ttf = "0.19.0"
+#glorious = { path = "../glorious" }
+dero = { path = "../dero" }
+rsdl2 = { path = "../rsdl2" }
+rsdl2_font = { path = "../rsdl2_font" }
